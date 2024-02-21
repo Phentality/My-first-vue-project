@@ -1,2 +1,2 @@
 # My-first-vue-project
-Learn Vue!
+Небольшая страничка с самыми основами Vue.js
